@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppData", "AppData\AppData.csproj", "{53CE0D3B-27F9-4F7C-BCFB-EDF77A931214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppAPI", "AppAPI\AppAPI.csproj", "{6B8CBC1F-6DB7-4147-9597-60A7F8BC90C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppView", "AppView\AppView.csproj", "{8DBECEA2-E4D8-461D-8AD2-60338D90923F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53CE0D3B-27F9-4F7C-BCFB-EDF77A931214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CE0D3B-27F9-4F7C-BCFB-EDF77A931214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CE0D3B-27F9-4F7C-BCFB-EDF77A931214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CE0D3B-27F9-4F7C-BCFB-EDF77A931214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B8CBC1F-6DB7-4147-9597-60A7F8BC90C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8CBC1F-6DB7-4147-9597-60A7F8BC90C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8CBC1F-6DB7-4147-9597-60A7F8BC90C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8CBC1F-6DB7-4147-9597-60A7F8BC90C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DBECEA2-E4D8-461D-8AD2-60338D90923F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DBECEA2-E4D8-461D-8AD2-60338D90923F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DBECEA2-E4D8-461D-8AD2-60338D90923F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DBECEA2-E4D8-461D-8AD2-60338D90923F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4DCE0B5-99A7-4104-A01E-047FBD6174AE}
+	EndGlobalSection
+EndGlobal
